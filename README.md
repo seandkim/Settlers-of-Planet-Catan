@@ -96,7 +96,7 @@ Playing screen
 			* Press Confirm to obtain all cards of selected type from computer. 				Monopoly cards will disappear. 
 			* Press Cancel to cancel. Monopoly card will NOT disappear. 
 	
-	*cheatKeyDemo (not part of a game)
+	* cheatKeyDemo (not part of a game)
 		* You can press these keys to obtain the following…
 			* b => brick
 			* i => invention
