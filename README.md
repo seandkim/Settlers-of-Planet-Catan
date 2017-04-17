@@ -1,9 +1,9 @@
-#Settlers of Planet Catan (3D Catan)
+# Settlers of Planet Catan (3D Catan)
 
-##Author
+## Author
 The program was written by Sean D Kim for 15-112 Term Project. The course is taught by David Kosbie and David Anderson at Carnegie Mellon University. 
 
-##How to Run
+## How to Run
 You need to have python installed. You can install python at <https://www.python.org/downloads/>
 To play the game, open the “3D Catan.py” file with python. The following items need to be in the same directory. Do not rename these files/folders. 
 * eventBasedAnimation.py
@@ -18,7 +18,7 @@ If damaged, the files can be downloaded from following link
 * structClass: <http://www.cs.cmu.edu/~112/notes/notes-oop.html>
 * icosahedron.obj <http://people.sc.fsu.edu/~jburkardt/data/obj/icosahedron.obj>
 
-##Objective
+## Objective
 Whoever gets 10 points before another player wins. You can get point by building…
 
 * House (Triangle): Wood, Brick, Sheep, Wheat (1 Point)
@@ -31,7 +31,7 @@ Whoever gets 10 points before another player wins. You can get point by building
 * Largest Army (2 points): obtained if the number of times a player used knights is 3 or more and bigger than that of another play. 
 
 
-##Info
+## Info
 The program is an adaptation of an existing board game, Settlers of Catan. The board was adapted to a 3D-icosahedron board instead of original 2D board. Because the new board has less vertices, the game was modified into 2-player board game. All the rule of original Catan game applies except few exceptions:
 
 * Less vertices on board => only two players at a game
@@ -44,7 +44,7 @@ To access the complete guide to the original Settlers of Catan,
 go to <www.catan.com/service/game-rules>
 
 
-##Features 
+## Features 
 Start screen
 * Select a color of your choice. Game starts when start button is pressed. 
 
