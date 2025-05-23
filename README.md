@@ -1,22 +1,15 @@
 # Settlers of Planet Catan (3D Catan)
 
-## Author
-The program was written by Sean D Kim for 15-112 Term Project. The course is taught by David Kosbie and David Anderson at Carnegie Mellon University. 
+Settlers of Planet Catan is a 3D adaption of Settlers of Catan written in Python 2.7. 
+
+![Settlers of Planet Catan Gameplay](images/screenshots/playing.png)
+
+The program was written by Sean D Kim for 15-112 Term Project. The course is taught by David Kosbie and David Anderson at Carnegie Mellon University.
 
 ## How to Run
-You need to have python installed. You can install python at <https://www.python.org/downloads/>
-To play the game, open the “3D Catan.py” file with python. The following items need to be in the same directory. Do not rename these files/folders. 
-* eventBasedAnimation.py
-* eventBasedAnimation.pyc
-* icosahedron.obj
-* images (folder of three images: alien.gif, space.gif, tile.gif)
-* structClass.py
-* structClass.pyc
 
-If damaged, the files can be downloaded from following link 
-* eventBasedAnimation: <http://www.cs.cmu.edu/~112/notes/notes-oop.html>
-* structClass: <http://www.cs.cmu.edu/~112/notes/notes-oop.html>
-* icosahedron.obj <http://people.sc.fsu.edu/~jburkardt/data/obj/icosahedron.obj>
+- Install Python 2.7
+- Run `python2 main.py`
 
 ## Objective
 Whoever gets 10 points before another player wins. You can get point by building…
@@ -112,6 +105,3 @@ Playing screen
 
 * Game-over: 
 	* You can click “r” to play the game again. 
-
-
-
